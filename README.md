@@ -1,6 +1,12 @@
 # du-dispenser-view
 LUA script for dual universe - Dispenser View script
 
+An easy to use script for making your shop more shiny and vital.
+
+![image](https://github.com/makerlu/du-dispenser-view/blob/main/pictures/dispenser-view1.jpg)
+
+![image](https://github.com/makerlu/du-dispenser-view/blob/main/pictures/dispenser-view2.jpg)
+
 ## Installation
 1. Place Programming board, Dispenser, Container and a Screen (fits all screen sizes - programmed on S size screen)
 2. Link first the screen, then second the container
