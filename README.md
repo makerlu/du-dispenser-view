@@ -9,7 +9,7 @@ An easy to use script for making your shop more shiny and vital.
 
 ## Installation
 1. Place Programming board, Dispenser, Container and a Screen (fits all screen sizes - programmed on S size screen)
-2. Link first the screen, then second the container
+2. Link first the container, then second the screen
 3. copy the json file (select raw view) and paste it to the PB
 4. Upload a custom picture of your sales object to dual universe
 4. Adjust the sales, picture and color options, by changing the LUA parameters (No lua programming needed)
