@@ -20,7 +20,8 @@ You can use "detection zones", pressure plates or laser emitter to activate the 
 Currently take care, that the PB is activated for more than 35 seconds - DU only allow update of the container every 30 seconds.
 If not it could happen, that the quantity is not updated correct.
 ### Note
-If you have multiple dispenser in a small area, it is best to use pressure plates, because the container update command only update one container script a time.
+If you have multiple dispenser in a small area, it is best to use xs detection zones, because the container update command only update one container script a time.
+If you use pressure plates, sometimes a quick run-over the plate is not deactivating the last PB and the next PB cannot update in the "chunk"
 
 
 ### Tip
