@@ -5,6 +5,8 @@ An easy to use script for making your shop more shiny and vital.
 
 ![image](https://github.com/makerlu/du-dispenser-view/blob/main/pictures/dispenser-view1.jpg)
 
+![image](https://github.com/makerlu/du-dispenser-view/blob/main/pictures/dispenser-view-updated-optionlist.jpg)
+
 ![image](https://github.com/makerlu/du-dispenser-view/blob/main/pictures/dispenser-view2.jpg)
 
 ## Installation
