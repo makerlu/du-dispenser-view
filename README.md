@@ -27,4 +27,5 @@ If you use pressure plates, sometimes a quick run-over the plate is not deactiva
 
 
 ### Tip
-If you like my work, i would be happy if you tip me some Quanta to Ingame "SMOURR". Thank you very much.
+If you like my work, i would be happy if you buy me a coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0THFNL)
