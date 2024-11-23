@@ -1,3 +1,6 @@
+PLEASE NOTE: This script will no longer be maintained.
+======================================================
+
 # du-dispenser-view
 LUA script for dual universe - Dispenser View script
 
